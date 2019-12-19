@@ -1,0 +1,7 @@
+
+Ten sinh vien : HOANG VAN THAI
+Ma so sinh vien : 18008
+Ngay thang nam sinh : 27/4/1997
+Ten mon hoc : Toan-7
+Ten mon hoc : Ly-8
+Ten mon hoc : Hoa-9

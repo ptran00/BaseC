@@ -1,0 +1,16 @@
+﻿Build started 2019/11/08 15:54:26.
+     1>Project "E:\phongtv6\CPP\Struc2_phanso\Class\Class.vcxproj" on node 2 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Release\Class.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Release\Class.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source_class.cpp
+         Source_class.cpp
+     1>Source_class.cpp(34): error C3867: 'Nguoi::action': function call missing argument list; use '&Nguoi::action' to create a pointer to member
+     1>Source_class.cpp(35): error C3867: 'Hocsinh::action': function call missing argument list; use '&Hocsinh::action' to create a pointer to member
+     1>Done Building Project "E:\phongtv6\CPP\Struc2_phanso\Class\Class.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.71

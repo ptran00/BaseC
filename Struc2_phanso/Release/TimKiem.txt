@@ -1,0 +1,7 @@
+
+Ten sinh vien : NGUYEN CONG TUYEN
+Ma so sinh vien : 18009
+Ngay thang nam sinh : 11/9/1997
+Ten mon hoc : Toan-7
+Ten mon hoc : Ly-8
+Ten mon hoc : Hoa-9

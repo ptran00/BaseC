@@ -1,0 +1,14 @@
+﻿1>------ Rebuild All started: Project: Input_file, Configuration: Debug Win32 ------
+1>Build started 2019/10/21 14:42:56.
+1>_PrepareForClean:
+1>  Deleting file "Debug\Input_file.lastbuildstate".
+1>InitializeBuildStatus:
+1>  Touching "Debug\Input_file.unsuccessfulbuild".
+1>ClCompile:
+1>  Source.cpp
+1>e:\phongtv6\cpp\struc2_phanso\input_file\source.cpp(9): error C3867: 'std::ios_base::fail': function call missing argument list; use '&std::ios_base::fail' to create a pointer to member
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.88
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========

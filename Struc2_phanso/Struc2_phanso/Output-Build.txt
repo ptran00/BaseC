@@ -1,0 +1,20 @@
+﻿1>------ Rebuild All started: Project: Inputfile, Configuration: Debug Win32 ------
+1>Build started 29/10/2019 2:04:19 CH.
+1>_PrepareForClean:
+1>  Deleting file "Debug\Inputfile.lastbuildstate".
+1>InitializeBuildStatus:
+1>  Creating "Debug\Inputfile.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  main_Inputfile.cpp
+1>e:\phongtv6\cpp\struc2_phanso\inputfile\main_inputfile.cpp(151): warning C4018: '<' : signed/unsigned mismatch
+1>e:\phongtv6\cpp\struc2_phanso\inputfile\main_inputfile.cpp(159): warning C4018: '<' : signed/unsigned mismatch
+1>Link:
+1>  Inputfile.vcxproj -> E:\phongtv6\CPP\Struc2_phanso\Debug\Inputfile.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\Inputfile.unsuccessfulbuild".
+1>  Touching "Debug\Inputfile.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:04.77
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

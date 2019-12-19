@@ -1,0 +1,17 @@
+﻿Build started 2019/12/02 13:19:13.
+     1>Project "E:\phongtv6\CPP\Struc2_phanso\Class\Class.vcxproj" on node 5 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Class.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\Class.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main_Fri_Class.cpp
+         Main_Fri_Class.cpp
+     1>e:\phongtv6\cpp\struc2_phanso\class\main_fri_class.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\phongtv6\cpp\struc2_phanso\class\main_fri_class.cpp(16): error C2451: conditional expression of type 'Nguoi' is illegal
+                 No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+     1>Done Building Project "E:\phongtv6\CPP\Struc2_phanso\Class\Class.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.94

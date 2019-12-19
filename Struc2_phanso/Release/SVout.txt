@@ -1,0 +1,91 @@
+
+Sinh vien thu : 1
+Ten sinh vien : BUI THI PHUONG
+Ma so sinh vien : 18001
+Ngay thang nam sinh : 10/5/1998
+Mon hoc thu : 1
+Ten mon hoc : Toan-1
+Mon hoc thu : 2
+Ten mon hoc : Ly-2
+Mon hoc thu : 3
+Ten mon hoc : Hoa-2
+Sinh vien thu : 2
+Ten sinh vien : DANG LE NGOC THU
+Ma so sinh vien : 18002
+Ngay thang nam sinh : 7/12/1999
+Mon hoc thu : 1
+Ten mon hoc : Toan-4
+Mon hoc thu : 2
+Ten mon hoc : Ly-5
+Mon hoc thu : 3
+Ten mon hoc : Hoa-6
+Sinh vien thu : 3
+Ten sinh vien : DANG QUOC NAM
+Ma so sinh vien : 18003
+Ngay thang nam sinh : 31/8/1999
+Mon hoc thu : 1
+Ten mon hoc : Toan-7
+Mon hoc thu : 2
+Ten mon hoc : Ly-8
+Mon hoc thu : 3
+Ten mon hoc : Hoa-9
+Sinh vien thu : 4
+Ten sinh vien : DAO THI HIEN
+Ma so sinh vien : 18004
+Ngay thang nam sinh : 13/12/1994
+Mon hoc thu : 1
+Ten mon hoc : Toan-7
+Mon hoc thu : 2
+Ten mon hoc : Ly-8
+Mon hoc thu : 3
+Ten mon hoc : Hoa-9
+Sinh vien thu : 5
+Ten sinh vien : DINH THI HANG
+Ma so sinh vien : 18005
+Ngay thang nam sinh : 7/4/1999
+Mon hoc thu : 1
+Ten mon hoc : Toan-7
+Mon hoc thu : 2
+Ten mon hoc : Ly-8
+Mon hoc thu : 3
+Ten mon hoc : Hoa-9
+Sinh vien thu : 6
+Ten sinh vien : HAN VAN TRANG
+Ma so sinh vien : 18006
+Ngay thang nam sinh : 10/6/1993
+Mon hoc thu : 1
+Ten mon hoc : Toan-7
+Mon hoc thu : 2
+Ten mon hoc : Ly-8
+Mon hoc thu : 3
+Ten mon hoc : Hoa-9
+Sinh vien thu : 7
+Ten sinh vien : HOANG VAN HAU
+Ma so sinh vien : 18007
+Ngay thang nam sinh : 4/3/1997
+Mon hoc thu : 1
+Ten mon hoc : Toan-7
+Mon hoc thu : 2
+Ten mon hoc : Ly-8
+Mon hoc thu : 3
+Ten mon hoc : Hoa-9
+Sinh vien thu : 8
+Ten sinh vien : HOANG VAN THAI
+Ma so sinh vien : 18008
+Ngay thang nam sinh : 27/4/1997
+Mon hoc thu : 1
+Ten mon hoc : Toan-7
+Mon hoc thu : 2
+Ten mon hoc : Ly-8
+Mon hoc thu : 3
+Ten mon hoc : Hoa-9
+Sinh vien thu : 9
+Ten sinh vien : NGUYEN CONG TUYEN
+Ma so sinh vien : 18009
+Ngay thang nam sinh : 11/9/1997
+Mon hoc thu : 1
+Ten mon hoc : Toan-7
+Mon hoc thu : 2
+Ten mon hoc : Ly-8
+Mon hoc thu : 3
+Ten mon hoc : Hoa-9

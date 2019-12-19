@@ -1,0 +1,19 @@
+﻿Build started 11/3/2019 6:05:27 PM.
+     1>Project "D:\phongtv6\CPP\Struc2_phanso\file\file.vcxproj" on node 4 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(13): error C2065: 'monhoc' : undeclared identifier
+     1>main.cpp(13): error C2923: 'std::vector' : 'monhoc' is not a valid template type argument for parameter '_Ty'
+     1>main.cpp(48): error C2664: 'void std::vector<_Ty>::push_back(int &&)' : cannot convert parameter 1 from 'monhoc' to 'int &&'
+                 with
+                 [
+                     _Ty=int
+                 ]
+                 Reason: cannot convert from 'monhoc' to 'int'
+                 No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+     1>Done Building Project "D:\phongtv6\CPP\Struc2_phanso\file\file.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.31

@@ -1,0 +1,21 @@
+
+ Tran Van A,22/11/1990,Nam
+ 3
+ T-9
+ A-9
+ V-8
+ Tran Van B,23/11/1991,Nu
+ 3
+ T-7
+ A-8
+ V-8
+ Tran Van C,24/11/1992,Nam
+ 2
+ T-7
+ A-8
+ Tran Van D,25/11/1993,Nam
+ 4
+ T-9
+ A-8
+ V-9
+ S-7

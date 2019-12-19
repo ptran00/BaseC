@@ -1,0 +1,57 @@
+﻿Build started 2019/12/02 13:19:13.
+     1>Project "E:\phongtv6\CPP\Struc2_phanso\Struc2_phanso\Struc2_phanso.vcxproj" on node 3 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Struc2_phanso.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\Struc2_phanso.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\phongtv6\cpp\struc2_phanso\struc2_phanso\source.cpp(29): error C2784: 'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &&,_Ty &)' : could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &&' from 'std::ofstream'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1084) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1084) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1084) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1084) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1084) : see declaration of 'std::operator >>'
+     1>e:\phongtv6\cpp\struc2_phanso\struc2_phanso\source.cpp(29): error C2784: 'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)' : could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'std::ofstream'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1074) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1074) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1074) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1074) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1074) : see declaration of 'std::operator >>'
+     1>e:\phongtv6\cpp\struc2_phanso\struc2_phanso\source.cpp(29): error C2784: 'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)' : could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'std::ofstream'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1067) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1067) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1067) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1067) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1067) : see declaration of 'std::operator >>'
+     1>e:\phongtv6\cpp\struc2_phanso\struc2_phanso\source.cpp(29): error C2784: 'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)' : could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'std::ofstream'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1060) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1060) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1060) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1060) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1060) : see declaration of 'std::operator >>'
+     1>e:\phongtv6\cpp\struc2_phanso\struc2_phanso\source.cpp(29): error C2784: 'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)' : could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'std::ofstream'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1053) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1053) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1053) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1053) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1053) : see declaration of 'std::operator >>'
+     1>e:\phongtv6\cpp\struc2_phanso\struc2_phanso\source.cpp(29): error C2784: 'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)' : could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'std::ofstream'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1028) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1028) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1028) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1028) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(1028) : see declaration of 'std::operator >>'
+     1>e:\phongtv6\cpp\struc2_phanso\struc2_phanso\source.cpp(29): error C2784: 'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)' : could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'std::ofstream'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(987) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(987) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(987) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(987) : see declaration of 'std::operator >>'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\istream(987) : see declaration of 'std::operator >>'
+     1>e:\phongtv6\cpp\struc2_phanso\struc2_phanso\source.cpp(29): error C2676: binary '>>' : 'std::ofstream' does not define this operator or a conversion to a type acceptable to the predefined operator
+     1>Done Building Project "E:\phongtv6\CPP\Struc2_phanso\Struc2_phanso\Struc2_phanso.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.71
