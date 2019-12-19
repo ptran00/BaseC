@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dailog4", "dailog4\dailog4.vcxproj", "{47009D80-300B-4422-A936-FCD5FF63E39E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dailog_login", "dailog_login\dailog_login.vcxproj", "{6C561513-E8EE-4F77-ABCC-2173DD8A958D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47009D80-300B-4422-A936-FCD5FF63E39E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47009D80-300B-4422-A936-FCD5FF63E39E}.Debug|Win32.Build.0 = Debug|Win32
+		{47009D80-300B-4422-A936-FCD5FF63E39E}.Release|Win32.ActiveCfg = Release|Win32
+		{47009D80-300B-4422-A936-FCD5FF63E39E}.Release|Win32.Build.0 = Release|Win32
+		{6C561513-E8EE-4F77-ABCC-2173DD8A958D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C561513-E8EE-4F77-ABCC-2173DD8A958D}.Debug|Win32.Build.0 = Debug|Win32
+		{6C561513-E8EE-4F77-ABCC-2173DD8A958D}.Release|Win32.ActiveCfg = Release|Win32
+		{6C561513-E8EE-4F77-ABCC-2173DD8A958D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
