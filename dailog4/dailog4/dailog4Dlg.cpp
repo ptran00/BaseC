@@ -69,6 +69,7 @@ BEGIN_MESSAGE_MAP(Cdailog4Dlg, CDialogEx)
 	ON_WM_PAINT()
 	ON_WM_QUERYDRAGICON()
 	ON_BN_CLICKED(IDC_BUTTON_ADD, &Cdailog4Dlg::OnBnClickedButtonAdd)
+	ON_NOTIFY(LVN_ITEMCHANGED, IDC_LIST_INFOR, &Cdailog4Dlg::OnLvnItemchangedListInfor)
 END_MESSAGE_MAP()
 
 
@@ -203,3 +204,6 @@ void Cdailog4Dlg::OnBnClickedButtonAdd()
 
 
 }
+
+
+

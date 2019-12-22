@@ -73,7 +73,7 @@ void menu(NgayTrongTuan chon){
 int main ()
 {
 	NgayTrongTuan chon;
-	chon = T6;
+	chon = T2;
 	menu(chon);
 	
 	system("pause");

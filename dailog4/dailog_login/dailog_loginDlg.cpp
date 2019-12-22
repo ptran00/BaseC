@@ -56,12 +56,15 @@ Cdailog_loginDlg::Cdailog_loginDlg(CWnd* pParent /*=NULL*/)
 void Cdailog_loginDlg::DoDataExchange(CDataExchange* pDX)
 {
 	CDialogEx::DoDataExchange(pDX);
+	DDX_Control(pDX, IDC_EDIT_USER, edit_user_name);
+	DDX_Control(pDX, IDC_EDIT_PASS, edit_password);
 }
 
 BEGIN_MESSAGE_MAP(Cdailog_loginDlg, CDialogEx)
 	ON_WM_SYSCOMMAND()
 	ON_WM_PAINT()
 	ON_WM_QUERYDRAGICON()
+	ON_BN_CLICKED(IDC_BUTTON1, &Cdailog_loginDlg::OnBnClickedButton1)
 END_MESSAGE_MAP()
 
 
@@ -150,3 +153,27 @@ HCURSOR Cdailog_loginDlg::OnQueryDragIcon()
 	return static_cast<HCURSOR>(m_hIcon);
 }
 
+
+
+void Cdailog_loginDlg::OnBnClickedButton1()
+{
+	// TODO: Add your control notification handler code here
+	CString user_string = _T("phongtv6");
+	CString pass_string = _T("phong");
+
+	CString user_tmp ;
+	CString pass_tmp;
+	
+	edit_user_name.GetWindowTextW(user_tmp);
+	edit_password.GetWindowTextW(pass_tmp);
+
+	bool login = false;
+	if (user_tmp.CompareNoCase(user_string)== 0)
+	{
+		if (pass_tmp.Compare(pass_string) == 0)
+		{
+			login == true;
+		}
+	}
+	
+}

@@ -39,4 +39,5 @@ protected:
 	CListCtrl list_infor_;
 public:
 	afx_msg void OnBnClickedButtonAdd();
+	afx_msg void OnLvnItemchangedListInfor(NMHDR *pNMHDR, LRESULT *pResult);
 };
